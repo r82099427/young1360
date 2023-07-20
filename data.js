@@ -164,7 +164,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 3.096836460210498,
+          "pitch": 0.3115395409274413,
+          "rotation": 0,
+          "target": "2-3-v2"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -375,6 +382,18 @@ var APP_DATA = {
           "pitch": 0.15791898100404111,
           "rotation": 0,
           "target": "6-7-v2"
+        },
+        {
+          "yaw": 1.969339044286298,
+          "pitch": 0.44173560465771367,
+          "rotation": 0,
+          "target": "10-11-v2"
+        },
+        {
+          "yaw": 1.9643676792642975,
+          "pitch": 0.10269268421785327,
+          "rotation": 0,
+          "target": "11-12-v2"
         }
       ],
       "infoHotspots": []
@@ -409,10 +428,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.0897062147413434,
-          "pitch": 0.09941544548597392,
+          "yaw": 2.3017378879509884,
+          "pitch": 0.2464811433510512,
           "rotation": 0,
-          "target": "1-2-v2"
+          "target": "11-12-v2"
         },
         {
           "yaw": 0.3158478424908129,
@@ -425,6 +444,12 @@ var APP_DATA = {
           "pitch": 0.18979313957072286,
           "rotation": 0,
           "target": "2-3-v2"
+        },
+        {
+          "yaw": -0.7154579388209985,
+          "pitch": 0.21157104965322482,
+          "rotation": 0,
+          "target": "9-10-v2"
         }
       ],
       "infoHotspots": []
@@ -475,6 +500,18 @@ var APP_DATA = {
           "pitch": 0.07365705192805727,
           "rotation": 0,
           "target": "0-1-v2"
+        },
+        {
+          "yaw": -0.37481869733233175,
+          "pitch": 0.16301505107574243,
+          "rotation": 0,
+          "target": "10-11-v2"
+        },
+        {
+          "yaw": -0.5047778273313206,
+          "pitch": 0.07174556741110649,
+          "rotation": 0,
+          "target": "9-10-v2"
         }
       ],
       "infoHotspots": []
